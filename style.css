@@ -1,0 +1,30 @@
+.copy_right_footer{
+    background-color: cadetblue;
+    color: cornsilk;
+    position: fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    line-height: 3;
+ 
+  }
+  #GL{
+      height: 200px;
+      width: 250px;
+  }
+#img1{
+    width:200px;
+    
+}
+#img2{
+    width:200px;
+    height: 200px;
+    
+}
+.test_image_and_result{
+    background-color: black;
+    border-radius: 20px;
+    color: azure;
+    font-family:Georgia;
+
+}
